@@ -23,6 +23,7 @@ export default defineConfig({
         'vue-router',
       ],
       resolvers: [ElementPlusResolver()],
+      dts: true
     }),
     Components({
       resolvers: [ElementPlusResolver()],
