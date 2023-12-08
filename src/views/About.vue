@@ -1,3 +1,3 @@
 <template>
-  About
+  <a-button>test</a-button>
 </template>
